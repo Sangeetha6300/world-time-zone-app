@@ -36,6 +36,7 @@
 			    <environment>Sandbox</environment>
 			    <workers>1</workers>
 			    <workerType>Micro</workerType>
+			    <objectStoreV2>true</objectStoreV2>
 			    <applicationName>worldtimezone-service-Sangeetha</applicationName>
 			    <muleVersion>4.3.0</muleVersion>
 			    <password>Sangeetha@0708</password>
